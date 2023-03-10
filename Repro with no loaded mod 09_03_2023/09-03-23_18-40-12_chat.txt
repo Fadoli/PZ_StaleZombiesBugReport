@@ -1,0 +1,70 @@
+[09-03-23 18:40:12.389][info] Start chat server initialization....
+[09-03-23 18:40:12.395][info] General chat has id = 0.
+[09-03-23 18:40:12.395][info] Say chat has id = 1.
+[09-03-23 18:40:12.395][info] Shout chat has id = 2.
+[09-03-23 18:40:12.395][info] Radio chat has id = 3.
+[09-03-23 18:40:12.395][info] Admin chat has id = 4.
+[09-03-23 18:40:12.395][info] Server chat has id = 5.
+[09-03-23 18:40:12.395][info] Chat server successfully initialized.
+[09-03-23 18:41:54.916][info] Player with id = '0' tries to connect.
+[09-03-23 18:41:54.916][info] Adding player '0' to chat server.
+[09-03-23 18:41:54.918][info] Player joined to default chats.
+[09-03-23 18:41:54.919][info] Player The Blue Surfer / Fadoli03(0) joined to chat server successfully.
+[09-03-23 18:42:44.078][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:42:44.079][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:42:44.335][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:42:44.335][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:42:44.637][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'}.
+[09-03-23 18:42:44.637][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'} sent to chat (id = 2) members.
+[09-03-23 18:42:45.546][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'}.
+[09-03-23 18:42:45.546][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'} sent to chat (id = 2) members.
+[09-03-23 18:42:49.515][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:42:49.515][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:42:49.729][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:42:49.729][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:42:49.969][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:42:49.969][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:42:53.718][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:42:53.718][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:42:55.692][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'}.
+[09-03-23 18:42:55.692][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'} sent to chat (id = 2) members.
+[09-03-23 18:42:55.929][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:42:55.929][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:43:02.344][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'}.
+[09-03-23 18:43:02.344][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'} sent to chat (id = 2) members.
+[09-03-23 18:43:02.638][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'}.
+[09-03-23 18:43:02.638][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY TOI !'} sent to chat (id = 2) members.
+[09-03-23 18:43:02.868][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:43:02.868][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:43:03.104][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:43:03.104][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:43:08.172][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:43:08.172][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:43:08.426][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:43:08.426][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:43:08.746][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:43:08.746][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:43:14.717][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:43:14.717][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:43:15.025][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:43:15.025][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:43:15.263][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:43:15.263][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:44:13.971][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:44:13.971][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:44:14.482][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:44:14.482][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:44:30.570][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:44:30.570][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:44:56.867][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:44:56.867][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:45:33.904][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'}.
+[09-03-23 18:45:33.904][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='HEY !'} sent to chat (id = 2) members.
+[09-03-23 18:45:34.465][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:45:34.465][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:46:40.988][info] Got message:ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'}.
+[09-03-23 18:46:40.988][info] Message ChatMessage{chat=Local, author='The Blue Surfer / Fadoli03', text='PAR ICI !'} sent to chat (id = 2) members.
+[09-03-23 18:48:36.611][info] Player 0 disconnecting....
+[09-03-23 18:48:36.611][info] Disconnecting player 0 finished.
+[09-03-23 18:48:36.611][info] Player 0 disconnecting....
+[09-03-23 18:48:36.611][info] Disconnecting player 0 finished.

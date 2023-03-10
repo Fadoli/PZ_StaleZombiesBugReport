@@ -1,0 +1,2 @@
+[09-03-23 18:41:54.924][INFO] user "The Blue Surfer / Fadoli03" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[09-03-23 18:48:36.611][INFO] user "The Blue Surfer / Fadoli03" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

@@ -1,0 +1,1 @@
+[09-03-23 18:45:48.037] 76561197985327988 "The Blue Surfer / Fadoli03" removed Door (fixtures_doors_02_4) at 6264,5376,0.

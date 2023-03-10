@@ -1,0 +1,6 @@
+[09-03-23 18:44:10.780] 76561197985327988 "The Blue Surfer / Fadoli03" floor +1 6308,5418,0 [Base.Hat_BaseballCap].
+[09-03-23 18:44:21.041] 76561197985327988 "The Blue Surfer / Fadoli03" floor +1 6313,5403,0 [Base.Hat_EarMuff_Protectors].
+[09-03-23 18:45:48.033] 76561197985327988 "The Blue Surfer / Fadoli03" floor +1 6264,5376,0 [Base.UnusableWood].
+[09-03-23 18:45:48.034] 76561197985327988 "The Blue Surfer / Fadoli03" floor +1 6264,5376,0 [Base.Doorknob].
+[09-03-23 18:46:46.472] 76561197985327988 "The Blue Surfer / Fadoli03" floor +1 6284,5383,0 [Base.Glasses_Reading].
+[09-03-23 18:46:47.433] 76561197985327988 "The Blue Surfer / Fadoli03" floor +1 6284,5384,0 [Base.Glasses_Sun].

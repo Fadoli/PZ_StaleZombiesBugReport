@@ -1,0 +1,2 @@
+[09-03-23 18:41:56.408] 76561197985327988 "The Blue Surfer / Fadoli03" ISLogSystem.writeLog @ 6351,5420,0.
+[09-03-23 18:41:56.409] 76561197985327988 "The Blue Surfer / Fadoli03" ISLogSystem.writeLog @ 6351,5420,0.
